@@ -949,20 +949,21 @@ html.ie7 .layer-blocking-browser .layer-body .support-env {display: none;}
     font-weight: normal;
     font-style: normal;
 }
-.wd-template {font-size: 150%; font-family: 'Cafe24Oneprettynight','Open Sans', 'Nanum Gothic', sans-serif, helvetica, arial;}
+.wd-template {line-height: 200%; font-size: 150%; font-family: 'Cafe24Oneprettynight','Open Sans', 'Nanum Gothic', sans-serif, helvetica, arial;}
 .wd-template #main-article {margin : 0; display:flex; justify-content: center; align-items: center; background: #f6f6f6;}
 .wd-template #article-content {width:750px; padding-bottom: 2rem; background: #fff; border-radius: 0 0 1rem 1rem;}
 .wd-template .con-body {margin: 0; padding: 0;} 
 .wd-template .con-wrap {margin: 0; max-width: 750px; text-align: center;}
-.wd-template .con-header {margin: 0; padding: 1rem 0;}
+.wd-template .con-header {margin: 0; padding: 1.5rem 0;}
 .wd-template .con-sector {margin: 0; padding: 0;}
 .wd-template .text-space {padding: 1rem;}
 .wd-template .img-space {padding: 0;}
 .wd-template .img-space img {width: 100%;}
 .wd-template h1 {margin:0; font-size:180%; color:#5f199f; font-weight: 600;} 
 .wd-template h2 {margin:0.5rem 0; font-size:120%; color:#5f199f;  font-weight: 600;} 
-.wd-template .sub-info {font-size:100%;}
-.wd-template .main-info {font-size:120%;}
+
+.wd-template .main-description {font-size:110%; padding:0 10%;}
+.wd-template .sub-description {}
 .wd-template .left {text-align: left}
 .border-line {height: 0; width:100%; border-bottom: 1px dotted #ddd;}
 #footer {background: #f6f6f6; margin:0; padding:1rem; text-align: center;}
