@@ -961,6 +961,7 @@ html.ie7 .layer-blocking-browser .layer-body .support-env {display: none;}
 .wd-template .con-body {margin: 0; padding: 0; background: none;} 
 .wd-template .con-wrap {margin: 0; max-width: 750px; text-align: center;}
 .wd-template .con-header {margin: 0; padding: 3rem 0;}
+.wd-template .con-header .sub-title {font-size:70%;}
 .wd-template .con-sector {margin: 0; padding: 0;}
 .wd-template .text-space {padding: 1rem;}
 .wd-template .img-space {padding: 0;}
@@ -979,6 +980,6 @@ html.ie7 .layer-blocking-browser .layer-body .support-env {display: none;}
 .wd-template .section-1 .main-description {padding:3rem 0; font-size:1.2rem;}
 .wd-template .section-2 {background-color: #fbe8da; padding:3rem 0;}
 .wd-template .section-3 {background-color: #fbe8da; padding-bottom: 3rem}
-.wd-template .section-4 {background-color: #fbf5f1; padding:3rem 0 0 0; }
-.wd-template .section-5 {background-color: #fbe8da; padding:3rem 1rem;}
+.wd-template .section-4 {background-color: #fbf5f1; padding:3rem 0; }
+.wd-template .section-5 {background-color: #fbe8da; padding:3rem 2rem;}
 .wd-template .sub-description {margin-bottom:1rem;}
