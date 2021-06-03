@@ -957,7 +957,7 @@ html.ie7 .layer-blocking-browser .layer-body .support-env {display: none;}
 }
 .wd-template {line-height: 200%; font-size: 120%; font-family: 'DX', 'Cafe24Oneprettynight','Open Sans', 'Nanum Gothic', sans-serif, helvetica, arial; }
 .wd-template #main-article {margin : 0; display:flex; justify-content: center; align-items: center; background: #fbf5f1;}
-.wd-template #article-content {background: none; border-radius: 0 0 1rem 1rem;}
+.wd-template #article-content {background: none; border-radius: 0 0 1rem 1rem; overflow: inherit; overflow: initial;}
 .wd-template .con-body {margin: 0; padding: 0; background: none;} 
 .wd-template .con-wrap {margin: 0; max-width: 750px; text-align: center;}
 .wd-template .con-header {margin: 0; padding: 3rem 0;}
