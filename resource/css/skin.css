@@ -955,7 +955,7 @@ html.ie7 .layer-blocking-browser .layer-body .support-env {display: none;}
     font-weight: normal;
     font-style: normal;
 }
-.wd-template {line-height: 200%; font-size: 120%; font-family: 'DX','Cafe24Oneprettynight','Open Sans', 'Nanum Gothic', sans-serif, helvetica, arial; }
+.wd-template {line-height: 200%; font-size: 120%; font-family: 'DX', 'Cafe24Oneprettynight','Open Sans', 'Nanum Gothic', sans-serif, helvetica, arial; }
 .wd-template #main-article {margin : 0; display:flex; justify-content: center; align-items: center; background: #fbf5f1;}
 .wd-template #article-content {background: #fff; border-radius: 0 0 1rem 1rem;}
 .wd-template .con-body {margin: 0; padding: 0; background: none;} 
@@ -970,7 +970,7 @@ html.ie7 .layer-blocking-browser .layer-body .support-env {display: none;}
 .wd-template h2 {margin:0.5rem 0; font-size:100%; font-weight: 600; color:#ff9480;} 
 
 .wd-template .main-description {font-size:120%; padding:0 10%;}
-.wd-template .sub-description {font-size:105%; margin-bottom:1rem;}
+.wd-template .sub-description {font-size:105%;}
 .wd-template .left {text-align: left}
 .border-line {height: 0; width:100%; border-bottom: 1px dotted #ddd;}
 #footer {background: #fbf5f1; margin:0; padding:1rem; text-align: center;}
