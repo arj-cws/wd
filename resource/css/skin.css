@@ -979,7 +979,7 @@ html.ie7 .layer-blocking-browser .layer-body .support-env {display: none;}
 .wd-template .section-3 .sub-description {padding: 3rem 0; font-size:105%;}
 .wd-template .section-4 {background-color: #fbf5f1; padding:3rem 0 0 0; }
 .wd-template .section-4 img{padding-bottom: 1rem;}
-.wd-template .section-4 .con-sector{padding-bottom: 5rem;}
+.wd-template .section-4 img:last-child{padding-bottom: 0;}
 .wd-template .section-5 {background-color: #fbe8da; padding:3rem 2.5rem;}
 .wd-template .section-5 h2, .wd-template .section-5 p{line-height: 1.6;}
 .wd-template .section-5 .sub-description {margin-bottom: 2rem; font-size:105%;}
