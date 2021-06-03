@@ -22,3 +22,7 @@ document.write("<link rel='stylesheet' type='text/css' href='https://fonts.googl
 document.write("<link rel='shortcut icon' href='resource/image/favicon.png' />");
 document.write("<link rel='stylesheet' type='text/css' href='./resource/css/skin.css' id='skin' />");
 document.write("<link rel='stylesheet' type='text/css' href='./resource/css/responsive.css' />");
+
+// animation - https://michalsnik.github.io/aos/
+document.write("<link rel='stylesheet' href='https://unpkg.com/aos@2.3.1/dist/aos.css' />");
+document.write("<script type='text/javascript' src='https://unpkg.com/aos@2.3.1/dist/aos.js'></script>");

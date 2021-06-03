@@ -2,3 +2,9 @@
 
 // js - control-common-ui-foot
 document.write("<script type='text/javascript' src='./resource/js/control-common-ui.js'></script>");
+
+// animate
+AOS.init({
+    easing: 'ease-out-back',
+    duration: 1500
+});
