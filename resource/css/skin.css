@@ -959,28 +959,29 @@ html.ie7 .layer-blocking-browser .layer-body .support-env {display: none;}
 .wd-template #main-article {margin : 0; display:flex; justify-content: center; align-items: center; background: #fbf5f1;}
 .wd-template #article-content {background: none; border-radius: 0 0 1rem 1rem; overflow: inherit; overflow: initial;}
 .wd-template .con-body {margin: 0; padding: 0; background: none;} 
-.wd-template .con-wrap {margin: 0; max-width: 750px; text-align: center;}
+.wd-template .con-wrap {margin: 0; max-width: 750px; text-align: center;  padding: 0 2rem;}
 .wd-template .con-header {margin: 0; padding: 3rem 0;}
 .wd-template .con-header .sub-title {font-size:70%;}
-.wd-template .con-sector {margin: 0; padding: 0;}
+.wd-template .con-sector {margin: 0; padding: 0 2rem;}
 .wd-template img {max-width: 100%; height: auto; border:0; vertical-align:top;}
 .wd-template h1 {margin:0; font-size:150%; font-weight: 600;} 
-.wd-template h2 {margin:0.5rem 0; font-size:100%; font-weight: 600; color:#ff9480;} 
+.wd-template h2 {margin:0.5rem 0; font-size:100%; font-weight: 600; color:#dc6c57;} 
 .wd-template .left {text-align: left}
-.border-line {height: 0; width:100%; border-bottom: 1px dotted #ddd;}
+.border-line {height: 0; width:100%; border-bottom: 1px solid #f3c9c2;}
+.border-line-2 {height: 0; width:100%; border-bottom: 1px solid #f9e4d3;}
 #footer {background: #fbf5f1; margin:0; padding:1rem; text-align: center;}
 
 .wd-template .section-1 {background: #fbf5f1; padding:0;}
 .wd-template .section-1 .img-header {width: 55%; margin: 5rem 0 2rem 0;}
 .wd-template .section-1 .sub-description {padding:3rem 0; font-size:120%;}
 .wd-template .section-2 {background-color: #fbe8da; padding:3rem 0;}
-.wd-template .section-2 .main-description {font-size:120%; padding:0 2.5rem 3rem 2.5em;}
+.wd-template .section-2 .main-description {font-size:120%; padding-bottom:3rem;}
 .wd-template .section-3 {padding: 3rem 0 0 0}
 .wd-template .section-3 .sub-description {padding: 3rem 0; font-size:105%;}
 .wd-template .section-4 {background-color: #fbf5f1; padding:3rem 0 0 0; }
-.wd-template .section-4 img{padding-bottom: 1rem;}
-.wd-template .section-4 img:last-child{padding-bottom: 0;}
-.wd-template .section-5 {background-color: #fbe8da; padding:3rem 2.5rem;}
+.wd-template .section-4 img{padding-bottom: 0rem;}
+.wd-template .section-4 img:last-child{padding-bottom: 2.5rem;}
+.wd-template .section-5 {background-color: #fbe8da; padding:3rem 0rem;}
 .wd-template .section-5 h2, .wd-template .section-5 p{line-height: 1.6;}
 .wd-template .section-5 .main-description {margin-bottom: 2rem; font-size:105%;}
 .wd-template .section-5 .sub-description {margin: 2rem 0; font-size:105%;}
