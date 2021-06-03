@@ -983,10 +983,11 @@ html.ie7 .layer-blocking-browser .layer-body .support-env {display: none;}
 .wd-template .section-5 {background-color: #fbe8da; padding:3rem 2.5rem;}
 .wd-template .section-5 h2, .wd-template .section-5 p{line-height: 1.6;}
 .wd-template .section-5 .main-description {margin-bottom: 2rem; font-size:105%;}
-.wd-template .section-5 .sub-description {margin: 2rem 0; font-size:115%;}
-.wd-template .section-5 .sub-description h2 {color:inherit; text-align: center;}
+.wd-template .section-5 .sub-description {margin: 2rem 0; font-size:105%;}
 .wd-template footer p{font-size:1.1rem;}
 
 .wd-template .calendar {font-size: 120%;  display: inline-table; text-align:center; vertical-align: middle; padding-bottom:0 }
 .wd-template .calendar td {width: 3rem; height: 3rem; padding:0.5rem 0.5rem;}
-.wd-template .calendar .d-day {background: #ff7a23; border-radius: 50%; color:#fff; }
+.wd-template .calendar .d-day {background: #ff7a23; border-radius: 50%; color:#fff;}
+.wd-template .bank-account {margin-top:0.5rem}
+.wd-template .bank-account li {font-size:115%;}

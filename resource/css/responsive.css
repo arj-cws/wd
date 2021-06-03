@@ -117,6 +117,7 @@
     .grid ul {margin-right: 0;}
     .grid li {margin-right: 0;}
     .grid-2n li {width:100%;}
+    .wd-template .grid-2n li {width:48%;}
     .grid-3n li {width:100%;}
     .grid-4n li {width:100%;}
     .grid-6n li {width:100%;}
