@@ -6,5 +6,5 @@ document.write("<script type='text/javascript' src='./resource/js/control-common
 // animate
 AOS.init({
     easing: 'ease-out-back',
-    duration: 1500
+    duration: 2000
 });
