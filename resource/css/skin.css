@@ -963,6 +963,7 @@ html.ie7 .layer-blocking-browser .layer-body .support-env {display: none;}
 .wd-template .con-header {margin: 0; padding: 3rem 0;}
 .wd-template .con-sector {margin: 0; padding: 0;}
 .wd-template .text-space {padding: 1rem;}
+.wd-template img{max-width: 100%; width: 100%; height: auto;}
 .wd-template .img-space {padding: 0;}
 .wd-template .img-space img {max-width: 100%; height: auto; border:0; vertical-align:top;}
 .wd-template h1 {margin:0; font-size:150%; font-weight: 600;} 
