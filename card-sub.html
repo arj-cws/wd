@@ -168,11 +168,12 @@
                                 <h2>마음 전하실 곳</h2>
                                 <p>축의금을 보내실 분들께서는 아래 계좌번호를 이용해주세요.</p>
                                 <ul class="bank-account">
-                                    <li>전용복 농협 356-1369-7236-53</li>
-                                    <li>손창욱 카카오 3333-15-7457626</li>
+                                    <li>전용복 농협 <span class="btn" data-clipboard-text="356-1369-7236-53">356-1369-7236-53</span></li>
+                                    <li>손창욱 카카오 <span class="btn" data-clipboard-text="3333-15-7457626">3333-15-7457626</span></li>
                                 </ul>
-                            </div>
-						</div>
+                                
+                            </div>						
+                        </div>
 						<div class="con-sector sub-description">
                             <div>
                                 <img data-aos="fade-in" src="./resource/image/gallery-06.jpg">
@@ -191,5 +192,15 @@
         <!--resource start-->
 		<script type="text/javascript" src="./resource/load-resource-foot.js"></script>
 		<!--resource end-->
+		<script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
+        <script>
+            var clipboard = new ClipboardJS( '.btn' );
+                clipboard.on( 'success', function() {
+                    alert( '계좌번호가 복사되었습니다.' );
+                } );
+                clipboard.on( 'error', function() {
+                    alert( '계좌번호 복사가 되지 않았습니다.' );
+                } );
+        </script>
 	</body>
 </html>
