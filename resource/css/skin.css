@@ -993,3 +993,5 @@ html.ie7 .layer-blocking-browser .layer-body .support-env {display: none;}
 .wd-template .calendar .d-day {background: #dc6c57; border-radius: 50%; color:#fff;}
 .wd-template .bank-account {margin-top:0.5rem}
 .wd-template .bank-account li {font-size:115%;}
+.wd-template .bank-account h3 {margin: 1rem 0 0 0}
+.wd-template .btn-bank {margin:0 0.5rem; height: inherit; height: initial; line-height: 1; padding:0.5rem 0.5rem}
