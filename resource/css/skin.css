@@ -980,6 +980,7 @@ html.ie7 .layer-blocking-browser .layer-body .support-env {display: none;}
 .wd-template .section-3 {background-color: #fbf5f1; padding: 3rem 0 0 0}
 .wd-template .section-3 .sub-description {padding: 3rem 0; font-size:105%;}
 .wd-template .section-4 {background-color: #fbf5f1; padding:3rem 0 0 0; }
+.wd-template .section-4 .con-sector {padding: 0;}
 .wd-template .section-4 img{padding-bottom: 0rem;}
 .wd-template .section-4 img:last-child{padding-bottom: 2.5rem;}
 .wd-template .section-5 {background-color: #fbe8da; padding:3rem 0 2rem 0;}
