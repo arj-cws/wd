@@ -973,6 +973,7 @@ html.ie7 .layer-blocking-browser .layer-body .support-env {display: none;}
 .wd-template #footer .con-wrap {background: #fbe8da; width:750px; margin:0; padding:1rem; text-align: center;}
 
 .wd-template .section-1 {background: #fbf5f1; padding:0;}
+.wd-template .section-1 .please-message {font-size:70%; color:#555;}
 .wd-template .section-1 .img-header {width: 55%; margin: 5rem 0 2rem 0;}
 .wd-template .section-1 .sub-description {padding:3rem 0; font-size:120%;}
 .wd-template .section-2 {background-color: #fbe8da; padding:3rem 3rem;}
